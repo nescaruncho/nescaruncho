@@ -40,8 +40,3 @@ Me atrae especialmente el **desarrollo backend**, aunque también estoy interesa
 ### 🎮 Sobre mí
 
 Además del desarrollo, tengo varias aficiones. Soy fan de los videojuegos y músico aficionado. Toco varios instrumentos, como la **guitarra**, el **bajo** y la **trompeta**, y tengo algunos conocimientos de **producción musical**. En cuanto a deportes, mi favorito es el **Fútbol Americano** y no puedo resistirme a una buena **tortilla de patatas**.
-
-### 📫 Conecta conmigo
-
-- LinkedIn: [Mi perfil de LinkedIn](#https://www.linkedin.com/in/andresfcaruncho/)
-- Email: [nescaruncho@gmail.com](mailto:nescaruncho@gmail.com)
