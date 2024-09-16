@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andrés
+# 👋 ¡Hola!
 
 ## 👨‍💻 Desarrollador Web en Formación Dual
 
