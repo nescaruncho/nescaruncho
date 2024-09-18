@@ -11,7 +11,7 @@ Mis principales lenguajes y herramientas son:
 - **Lenguajes:** Java, HTML, CSS, SQL
 - **Frameworks:** Bootstrap, SpringBoot, Thymeleaf
 - **Aprendiendo:** PHP, JavaScript
-- **Otros conocimientos:** Python, Bash, XML, administración de bases de datos, gestión de sistemas (Windows y Linux)
+- **Otros conocimientos:** Python, Bash, XML, gestión de bases de datos, administración de sistemas (Windows y Linux)
 
 ### 🎓 Formación previa y experiencia
 
