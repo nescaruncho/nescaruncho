@@ -2,21 +2,23 @@
 
 ## 👨‍💻 Desarrollador Web en Formación Dual
 
-Soy Andrés, tengo 29 años y actualmente estudio el Ciclo Superior en Desarrollo de Aplicaciones Web en formato Dual, combinando estudios y prácticas en **Altia**, una reconocida consultora tecnológica con más de 30 años de experiencia en el sector. Estoy en el segundo y último año de mi formación, enfocado en seguir creciendo como desarrollador.
+Soy Andrés, tengo 30 años y actualmente estudio el Ciclo Superior en Desarrollo de Aplicaciones Web en formato Dual, combinando estudios y prácticas en **Altia**, una reconocida consultora tecnológica con más de 30 años de experiencia en el sector. Estoy en el segundo y último año de mi formación, enfocado en seguir creciendo como desarrollador.
 
 ### 🛠️ Habilidades técnicas
 
 Mis principales lenguajes y herramientas son:
 
-- **Lenguajes:** Java, HTML, CSS, SQL
-- **Frameworks:** Bootstrap, SpringBoot, Thymeleaf
-- **Aprendiendo:** PHP, JavaScript
-- **Otros conocimientos:** gestión de bases de datos, administración de sistemas (Windows y Linux)
+- **Lenguajes:** Java, PHP, Javascript, SQL
+- **Frameworks:** Laravel, SpringBoot, VueJS
+- **Otros conocimientos:** administración de bases de datos, administración de sistemas (Windows y Linux)
+- **Aprendiendo:** Azure, Python, desarrollo Android
 
 ### 🎓 Formación previa y experiencia
 
 Antes de entrar en el mundo del desarrollo web, estudié el Grado en **Comunicación Audiovisual** y trabajé en el sector del marketing y las redes sociales, donde tuve mi primer contacto con el diseño de páginas web a través de **HTML**, **CSS** y plataformas como **WordPress**. También tengo experiencia en:
 
+- Maquetación web
+- Diseño UI/UX
 - Edición de vídeo y fotografía
 - Diseño gráfico
 - Producción y storytelling
@@ -24,18 +26,16 @@ Antes de entrar en el mundo del desarrollo web, estudié el Grado en **Comunicac
 
 ### 🚀 Proyectos
 
-**Aplicación de Gestión de Librerías Personales**  
+**Librarium**  
    Actualmente estoy desarrollando una aplicación para facilitar la gestión de librerías personales, ideal para usuarios con muchos libros que quieran mantener un orden y control sobre sus volúmenes. La aplicación permite:
 
-   - Ver la ubicación de los libros
-   - Establecer un orden de colocación
-   - Generar etiquetas con códigos personalizados para una rápida localización
+   - Añadir libro mediante captura de ISBN
+   - Crear etiquetas personalizadas
+   - Simplificación y automatización de sistema de préstamos, devoluciones y sanciones
+   - Organización de espacios físicos
+   - Gestión de historial de lecturas
 
-   La aplicación está construida en **Java**, utiliza bases de datos **MySQL** y se apoya en frameworks como **SpringBoot**, **Thymeleaf** y **Bootstrap**. Mi idea es evolucionarla en el futuro hacia una herramienta más general para gestionar otros objetos en el hogar.
-
-### 💡 Intereses y próximos pasos
-
-Me atrae especialmente el **desarrollo backend**, aunque también estoy interesado en aprender más sobre frameworks frontend como **Angular** y **React**. Me gusta trabajar en proyectos desafiantes que me permitan aplicar lo que sé y aprender cosas nuevas.
+   La aplicación está construida en **Laravel** y **VueJS**, utiliza **MariaDB** como sistema gestor de bases de datos y está contenerizada en **Docker** usando **Laravel Sail**, adaptada para ser desplegada en cualquier host moderno. La idea es seguir evolucionando la aplicación incluyendo funciones sociales para conectar con otros usuarios.
 
 ### 🎮 Sobre mí
 
