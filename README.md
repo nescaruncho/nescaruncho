@@ -26,7 +26,7 @@ Antes de entrar en el mundo del desarrollo web, estudié el Grado en **Comunicac
 
 ### 🚀 Proyectos
 
-**Librarium**  
+**[Librarium](https://gitlab.com/nescaruncho/librarium)**  
    Actualmente estoy desarrollando una aplicación para facilitar la gestión de librerías personales, ideal para usuarios con muchos libros que quieran mantener un orden y control sobre sus volúmenes. La aplicación permite:
 
    - Añadir libro mediante captura de ISBN
